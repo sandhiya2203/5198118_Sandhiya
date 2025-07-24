@@ -1,1 +1,1 @@
-![SDLC Certificate](<SDLC\SDLC- GL Completion.png>)
+![SDLC Certificate](<SDLC/SDLC- GL Completion.png>)
