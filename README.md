@@ -2,3 +2,4 @@
 ![GIT Training Certificate](<Certificate/GIT Training.png>)
 ![GIT Basics Certificate](<Certificate/GIT Basics.png>)
 ![Introduction to C Certificate](<C Practice/Intro to C.jpg>)
+![Working with branches (GIT) Certificate](<Certificate/Working with branches.png>)
